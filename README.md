@@ -1,2 +1,2 @@
 # iTj
-Caros Sinhue Garcia Hernandez
+Carlos Sinhue Garcia Hernandez
